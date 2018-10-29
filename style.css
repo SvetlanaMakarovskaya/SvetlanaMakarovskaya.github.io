@@ -1,0 +1,16 @@
+a {
+    color: blue;
+    text-align: center;
+    width: 200px;
+}
+div {
+    width: 50%;
+height:200px ;
+text-align: center;
+background: blue;
+border: 1px solid black;
+}
+.text_red {
+    color: red;
+}
+.head
